@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "978d4211a441f2b2",
+        "id": "10c763a6c20e8968",
         "type": "tabs",
         "children": [
           {
-            "id": "cb839ae86d2f8c4a",
+            "id": "2c33a234822148a0",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "00 - 09 SPECIFICATIONS/00 DOC/01 User Stories.md",
-                "bFile": "00 - 09 SPECIFICATIONS/00 DOC/01 User Stories.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 01 User Stories"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -178,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb839ae86d2f8c4a",
+  "active": "2c33a234822148a0",
   "lastOpenFiles": [
     "00 - 09 SPECIFICATIONS/00 DOC/01 User Stories.md",
     "Welcome.md",
