@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2fe8692c497c92d8",
+        "id": "978d4211a441f2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "a2de74aef07eab5b",
+            "id": "cb839ae86d2f8c4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "00 - 09 SPECIFICATIONS/00 DOC/01 User Stories.md",
-                "mode": "source",
-                "source": false
+                "aFile": "00 - 09 SPECIFICATIONS/00 DOC/01 User Stories.md",
+                "bFile": "00 - 09 SPECIFICATIONS/00 DOC/01 User Stories.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "01 User Stories"
+              "icon": "diff",
+              "title": "Diff: 01 User Stories"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orbits",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - 09 SPECIFICATIONS/00 DOC/01 User Stories.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01 User Stories"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "294b501f8eeb471b",
+            "id": "67a27eb595b6d85e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -178,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8eef887879288c9e",
+  "active": "cb839ae86d2f8c4a",
   "lastOpenFiles": [
-    "Welcome.md",
     "00 - 09 SPECIFICATIONS/00 DOC/01 User Stories.md",
+    "Welcome.md",
     "00 - 09 SPECIFICATIONS/00 DOC",
     "00 - 09 SPECIFICATIONS"
   ]
