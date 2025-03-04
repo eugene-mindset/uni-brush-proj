@@ -11,6 +11,7 @@
 - [ ] ... view the 2D projections of my galaxy.
 - [ ] ... denote routes between systems.
 - [ ] ... make changes and edits to a map of the Milky Way Galaxy.
+- [ ] Test
 # As a user, I want to ...
 - [ ] ... describe population of planets and stations.
 - [ ] ... define or edit celestial bodies within a system, including their names, orbits, terrain, etc.
