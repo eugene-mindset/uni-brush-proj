@@ -11,7 +11,9 @@
 - [ ] ... view the 2D projections of my galaxy.
 - [ ] ... denote routes between systems.
 - [ ] ... make changes and edits to a map of the Milky Way Galaxy.
+- [ ] ... get useful coordinates of systems in my galaxy.
 # As a user, I want to ...
+- [ ] ... define divisions, sectors, and coordinate systems that civilizations in my galaxy utilize.
 - [ ] ... describe population of planets and stations.
 - [ ] ... define or edit celestial bodies within a system, including their names, orbits, terrain, etc.
 - [ ] ... indicate how transportation works in the setting like warp, teleport, jump, hyperlanes, etc.
@@ -30,3 +32,4 @@
 - [ ] ... create language sets to generate names and text.
 - [ ] ... generate iconography and vexillology of civilizations.
 - [ ] ... use different algorithms to generate routes between systems.
+- [ ] ... render a transit map of my galaxy.

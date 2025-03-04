@@ -1,0 +1,6 @@
+- [TypeScript](https://www.typescriptlang.org/): type-safe JS is a must
+- [Node.js](https://nodejs.org/en): backend / server / environment
+- [Three.js](https://threejs.org/): 3d Rendering 
+- [Electron.js](https://www.electronjs.org/): desktop app
+- [Vite](https://vite.dev/):  build tool
+	- https://electron-vite.org/
